@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbadwa
 - 👀 I’m interested in all things DevOps
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Devops project
+- 💞️ I’m looking to collaborate on Devops projects
 - 📫 How to reach me mcneil.chaweza@inglesnow.io
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like planting Avocodos
